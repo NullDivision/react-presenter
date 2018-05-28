@@ -1,0 +1,1 @@
+{ "plugins": ["transform-class-properties", "transform-flow-strip-types", "transform-react-jsx"] }

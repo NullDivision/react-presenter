@@ -1,0 +1,13 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": { "ecmaFeatures": { "jsx": true }, "sourceType": "module" },
+    "plugins": ["flowtype", "react"],
+    "rules": {
+        "no-unused-vars": 2,
+        "react/jsx-uses-react": 2,
+        "react/jsx-uses-vars": 2,
+        "react/react-in-jsx-scope": 2,
+        "react/sort-comp": 2
+    },
+    "settings": { "react": { "flowVersion": "0.73" } }
+}
