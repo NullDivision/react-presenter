@@ -8,20 +8,20 @@
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
-    "babel-eslint": "^8.2.3",
-    "babel-loader": "^7.1.4",
+    "babel-eslint": "^10.0.2",
+    "babel-loader": "^8.0.6",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
-    "css-loader": "^0.28.11",
-    "eslint": "^4.19.1",
+    "css-loader": "^3.0.0",
+    "eslint": "^6.0.1",
     "eslint-loader": "^2.0.0",
-    "eslint-plugin-flowtype": "^2.47.1",
+    "eslint-plugin-flowtype": "^3.11.1",
     "eslint-plugin-react": "^7.8.2",
-    "flow-bin": "^0.73.0",
-    "style-loader": "^0.21.0",
+    "flow-bin": "^0.102.0",
+    "style-loader": "^0.23.1",
     "webpack": "^4.9.1",
-    "webpack-serve": "^1.0.2"
+    "webpack-serve": "^3.1.0"
   },
   "scripts": {
     "develop": "webpack-serve"
@@ -30,6 +30,6 @@
     "normalize.css": "^8.0.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
-    "styled-components": "^3.3.0"
+    "styled-components": "^4.3.2"
   }
 }
