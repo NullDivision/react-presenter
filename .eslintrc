@@ -9,5 +9,5 @@
         "react/react-in-jsx-scope": 2,
         "react/sort-comp": 2
     },
-    "settings": { "react": { "flowVersion": "0.73" } }
+    "settings": { "react": { "flowVersion": "0.73", "version": "detect" } }
 }
